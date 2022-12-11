@@ -1,2 +1,2 @@
 # quera_front
-These are the exercises and code which have been written during quera bootcamp in HTML, Css, Javascript and React 
+This is an example of designing web semantic HTML and using correct semantic tags for a layout in web page 
